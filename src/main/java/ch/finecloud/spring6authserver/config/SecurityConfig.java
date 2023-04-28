@@ -35,9 +35,6 @@ import java.security.interfaces.RSAPrivateKey;
 import java.security.interfaces.RSAPublicKey;
 import java.util.UUID;
 
-/**
- * Created by jt, Spring Framework Guru.
- */
 @Configuration
 public class SecurityConfig {
     @Bean
